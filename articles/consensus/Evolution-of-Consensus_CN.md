@@ -56,7 +56,6 @@ O(N\*log N) | Algorand |
 | DFINITY | 33% | 对若干历史区块的加权评估 | 通过VRF随机选择出块节点 O(N\*log N) | DFINITY |
 | VBFT | 33% | 通过BFT实现 | 通过VRF随机选择出块节点 O(N*log N) | Ontology|
 | PoW-DAG | 49% | 算法不提供终局性 | O(N) | PHANTOM, Conflux |
-Table 1： 主流共识算法比较
 
 从上述的分类过程中，我们可以看出当前区块链共识算法在性能，扩展性，去中心化等方向上的演进过程。
 
